@@ -125,28 +125,17 @@ Before running the application, ensure you have the following installed:
 
 ## Tools and Libraries
 
-+----+-------------+------------------------------------------------------------+
-| Sl.| Technology  | Description                                                |
-+----+-------------+------------------------------------------------------------+
-| 1  | **ArangoDB**  | A multi-model database used for storing and querying      |
-|    |             | graph data.                                                 |
-+----+-------------+------------------------------------------------------------+
-| 2  | **LangChain** | A framework for developing applications powered by        |
-|    |             | language models, used here for translating natural         |
-|    |             | language queries into AQL.                                 |
-+----+-------------+------------------------------------------------------------+
-| 3  | **GROQ**      | A language model API used for generating visualization    |
-|    |             | code and enhancing query processing.                       |
-+----+-------------+------------------------------------------------------------+
-| 4  | **NetworkX**  | A Python library for creating, manipulating, and         |
-|    |             | studying complex networks.                                 |
-+----+-------------+------------------------------------------------------------+
-| 5  | **Matplotlib** | A plotting library for creating static, animated, and   |
-|    |             | interactive visualizations in Python.                      |
-+----+-------------+------------------------------------------------------------+
-| 6  | **Flask**      | A lightweight web framework for building web            |
-|    |             | applications in Python.                                    |
-+----+-------------+------------------------------------------------------------+
+## Technology Stack
+
+| Sl. No. | Technology  | Description |
+|---------|------------|-------------|
+| 1       | **ArangoDB**  | A multi-model database used for storing and querying graph data. |
+| 2       | **LangChain** | A framework for developing applications powered by language models, used here for translating natural language queries into AQL. |
+| 3       | **GROQ**      | A language model API used for generating visualization code and enhancing query processing. |
+| 4       | **NetworkX**  | A Python library for creating, manipulating, and studying complex networks. |
+| 5       | **Matplotlib** | A plotting library for creating static, animated, and interactive visualizations in Python. |
+| 6       | **Flask**      | A lightweight web framework for building web applications in Python. |
+
 
 
 
