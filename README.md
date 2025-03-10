@@ -118,10 +118,11 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 
-For any questions or feedback, please contact:
 
-- **Pavan Kothapalli**: [pavan.kothapalli@bluepal.com](mail to:pavan.kothapalli@bluepal.com)  
-- **Rithwik Thirumalaraju**: [rithwik.thirumalaraju@bluepal.com](mail to:rithwik.thirumalaraju@bluepal.com)  
-- **Keerthi Datla**: [keerthi.datla@bluepal.com](mail to:keerthi.datla@bluepal.com)  
+
 
 We welcome your input and are happy to assist with any inquiries or issues you may have!
+
+
+https://github.com/user-attachments/assets/4757b291-2a6f-4e5c-8286-cdaba8128b85
+
