@@ -1,15 +1,47 @@
 # README.md
 
+## Vedio Reference for Patient_AI
+
+The Below Video provides the ove view of our application along with Graph Visuvalization
+
+
+
+https://github.com/user-attachments/assets/a8729fe8-3f9c-4880-a829-ceab26a14228
+
+
+
+
 ## Project Overview
 
 This project is a Flask-based web application that integrates with ArangoDB, LangChain, and GROQ to provide a powerful interface for querying and visualizing graph data. The application allows users to input natural language queries, which are then translated into ArangoDB Query Language (AQL) using LangChain. The results can be visualized using NetworkX and Matplotlib, and the visualizations are rendered in the web interface.
 
 ## Features
 
-- **Natural Language to AQL Translation**: Convert natural language queries into AQL using LangChain and execute them on an ArangoDB database.
-- **Graph Visualization**: Generate and visualize graph data using NetworkX and Matplotlib. The visualizations are saved as static images and displayed in the web interface.
-- **GROQ Integration**: Utilize GROQ's language models for enhanced query processing and visualization code generation.
-- **Flask Web Interface**: A simple web interface to interact with the application, submit queries, and view results.
+## Features
+
++--------+-----------------------------------------+------------------------------------------------------------+
+| Sl. No.| Feature Name                            | Description                                                |
++--------+-----------------------------------------+------------------------------------------------------------+
+| 1      | **Natural Language to AQL Translation** | Converts natural language queries into AQL using LangChain |
+|        |                                         | and executes them on an ArangoDB database.                 |
++--------+-----------------------------------------+------------------------------------------------------------+
+| 2      | **Graph Visualization**                 | Generates and visualizes graph data using NetworkX and     |
+|        |                                         | Matplotlib. The visualizations are saved as static images  |
+|        |                                         | and displayed in the web interface.                        |
++--------+-----------------------------------------+------------------------------------------------------------+
+| 3      | **GROQ Integration**                    | Utilizes GROQ's language models for enhanced query         |
+|        |                                         | processing and visualization code generation.              |
++--------+-----------------------------------------+------------------------------------------------------------+
+| 4      | **Flask Web Interface**                 | Provides a simple web interface to interact with the       |
+|        |                                         | application, submit queries, and view results.             |
++--------+-----------------------------------------+------------------------------------------------------------+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/78d662ec-14ae-4285-97a3-5f738d650454)
+
 
 ## Prerequisites
 
@@ -93,12 +125,31 @@ Before running the application, ensure you have the following installed:
 
 ## Tools and Libraries
 
-- **ArangoDB**: A multi-model database used for storing and querying graph data.
-- **LangChain**: A framework for developing applications powered by language models, used here for translating natural language queries into AQL.
-- **GROQ**: A language model API used for generating visualization code and enhancing query processing.
-- **NetworkX**: A Python library for creating, manipulating, and studying complex networks.
-- **Matplotlib**: A plotting library for creating static, animated, and interactive visualizations in Python.
-- **Flask**: A lightweight web framework for building web applications in Python.
+## Technologies Used
+
++------------+---------------------------------------------------+-------------------------------------------------------------+
+| Sl. No.    | Technology                                      | Description                                                 |
++------------+---------------------------------------------------+-------------------------------------------------------------+
+| 1          | **ArangoDB**                                    | A multi-model database used for storing and querying graph  |
+|            |                                               | data.                                                       |
++------------+---------------------------------------------------+-------------------------------------------------------------+
+| 2          | **LangChain**                                   | A framework for developing applications powered by language |
+|            |                                               | models, used here for translating natural language queries  |
+|            |                                               | into AQL.                                                   |
++------------+---------------------------------------------------+-------------------------------------------------------------+
+| 3          | **GROQ**                                       | A language model API used for generating visualization code |
+|            |                                               | and enhancing query processing.                             |
++------------+---------------------------------------------------+-------------------------------------------------------------+
+| 4          | **NetworkX**                                   | A Python library for creating, manipulating, and studying  |
+|            |                                               | complex networks.                                           |
++------------+---------------------------------------------------+-------------------------------------------------------------+
+| 5          | **Matplotlib**                                 | A plotting library for creating static, animated, and      |
+|            |                                               | interactive visualizations in Python.                       |
++------------+---------------------------------------------------+-------------------------------------------------------------+
+| 6          | **Flask**                                      | A lightweight web framework for building web applications  |
+|            |                                               | in Python.                                                  |
++------------+---------------------------------------------------+-------------------------------------------------------------+
+
 
 ## Contributing
 
@@ -124,5 +175,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 We welcome your input and are happy to assist with any inquiries or issues you may have!
 
 
-https://github.com/user-attachments/assets/4757b291-2a6f-4e5c-8286-cdaba8128b85
 
