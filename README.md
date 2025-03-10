@@ -19,22 +19,15 @@ This project is a Flask-based web application that integrates with ArangoDB, Lan
 
 ## Features
 
-+--------+-----------------------------------------+------------------------------------------------------------+
-| Sl. No.| Feature Name                            | Description                                                |
-+--------+-----------------------------------------+------------------------------------------------------------+
-| 1      | **Natural Language to AQL Translation** | Converts natural language queries into AQL using LangChain |
-|        |                                         | and executes them on an ArangoDB database.                 |
-+--------+-----------------------------------------+------------------------------------------------------------+
-| 2      | **Graph Visualization**                 | Generates and visualizes graph data using NetworkX and     |
-|        |                                         | Matplotlib. The visualizations are saved as static images  |
-|        |                                         | and displayed in the web interface.                        |
-+--------+-----------------------------------------+------------------------------------------------------------+
-| 3      | **GROQ Integration**                    | Utilizes GROQ's language models for enhanced query         |
-|        |                                         | processing and visualization code generation.              |
-+--------+-----------------------------------------+------------------------------------------------------------+
-| 4      | **Flask Web Interface**                 | Provides a simple web interface to interact with the       |
-|        |                                         | application, submit queries, and view results.             |
-+--------+-----------------------------------------+------------------------------------------------------------+
+## Features
+
+| Sl. No. | Feature Name                            | Description |
+|---------|-----------------------------------------|-------------|
+| 1       | **Natural Language to AQL Translation** | Converts natural language queries into AQL using LangChain and executes them on an ArangoDB database. |
+| 2       | **Graph Visualization**                 | Generates and visualizes graph data using NetworkX and Matplotlib. The visualizations are saved as static images and displayed in the web interface. |
+| 3       | **GROQ Integration**                    | Utilizes GROQ's language models for enhanced query processing and visualization code generation. |
+| 4       | **Flask Web Interface**                 | Provides a simple web interface to interact with the application, submit queries, and view results. |
+
 
 
 
