@@ -17,9 +17,6 @@ This project is a Flask-based web application that integrates with ArangoDB, Lan
 
 ## Features
 
-## Features
-
-## Features
 
 | Sl. No. | Feature Name                            | Description |
 |---------|-----------------------------------------|-------------|
